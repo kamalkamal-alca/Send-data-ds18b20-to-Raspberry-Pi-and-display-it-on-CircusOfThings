@@ -2,7 +2,7 @@
 Send data dht11 to a Raspberry Pi and display it on CircusOfThings, then display it on the CircusOfThings platform. We used HTTP requests.
 - Install the following libraries: requests, json, and W1ThermSensor
 
-- Create a circusofthings.com account
+- Create a [circusofthings.com](https://circusofthings.com/) account
 
 - In https://circusofthings.com/workshop, create a new signal and name it temp_c and temp_f
 - Key: 28440 for temp_c (example)
