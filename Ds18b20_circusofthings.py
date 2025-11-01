@@ -5,9 +5,9 @@ from w1thermsensor import W1ThermSensor
 
 sensor = W1ThermSensor()
 
-KEY_C = "24690"  # Temp in Celsius
-KEY_F = "21992"  # Temp in Fahrenheit
-TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI0ODgifQ.2IsqTlCZB4TJCC-XcE-QgUU06ajOT7Ei5AevKQoJloI"
+KEY_C = "........"  # Temp in Celsius
+KEY_F = "........"  # Temp in Fahrenheit
+TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 def write_signal(key, value):
     """Write a single signal to Circus of Things"""
